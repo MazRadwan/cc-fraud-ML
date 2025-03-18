@@ -80,4 +80,4 @@ Thumbs.db
 *.pkl
 *.h5
 *.joblib
-*.modelproject_specs.md
+*.Model
